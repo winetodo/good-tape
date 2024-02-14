@@ -4,6 +4,8 @@
 
 This project is a simple React application that fetches and displays the top 10 random stories from Hacker News using their official API.
 
+The primary code of focus resides inside src -> App.js
+
 ## Installation
 
 Before running this project, make sure you have Node.js and npm installed on your system.
